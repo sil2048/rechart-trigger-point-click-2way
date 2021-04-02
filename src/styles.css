@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.recharts-tooltip-custom {
+  z-index: 100;
+  visibility: hidden;
+  position: absolute;
+  left: 20px;
+  top: 0px;
+}
+.close-tooltip {
+}
